@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-/* Return all even numbers from an array. */
+/* Return all even numbers from an array using ArrayList. */
 
 public class EvenNumber {
     public static ArrayList<Integer> evenNumber(int[] arr) {
